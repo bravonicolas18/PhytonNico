@@ -1,0 +1,3 @@
+num1 = int(input("\n Ingrese numero 1: "))
+num2 = int(input("\n Ingrese numero 2: "))
+print("\n Minimo =", min(num1,num2),"\n")
